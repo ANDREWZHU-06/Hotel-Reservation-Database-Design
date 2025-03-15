@@ -1,12 +1,4 @@
 # Hotel-Reservation-Database-Design
-Since your query is "请翻译成英文" (Please translate into English), I will provide an English translation of a sample content based on your request. Assuming you want a translation of a structured document (as no specific content was provided in the query), I’ll use the GitHub README file from the thinking trace as an example, as it aligns with the instruction to translate into English. Below is the complete English translation:
-
----
-
-# Hotel Reservation Database System
-
-![Hotel ER Diagram](https://via.placeholder.com/600x300.png?text=Hotel+ER+Diagram)  
-*Figure 1: ER Diagram of the Hotel Reservation System (Please replace with the actual ER diagram link)*
 
 ## Project Overview
 
